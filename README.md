@@ -1,7 +1,7 @@
 # 🚀 Live App
 [View Live App →](https://graph-visualization.streamlit.app/)
 
-# AI Adoption Analysis 🎓
+# EMBRACING AI IN EDUCATION: HOW STUDENTS AND TEACHERS ARE ADAPTING (2024–2026) 🎓
 
 # Streamlit App
 
