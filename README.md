@@ -1,17 +1,13 @@
+# 🚀 Live App
+[View Live App →](https://graph-visualization.streamlit.app/)
 
+# AI Adoption Analysis 🎓
 
-Live demo: INSERT_LIVE_APP_LINK_HERE
-
-# AI Adoption Analysis
-
-Streamlit App
+# Streamlit App
 
 This Streamlit web application visualizes AI adoption rates for `Student` and `Teacher` user types using the repository's `data.csv` and `main.py`.
 
-🚀 Live Demo
-View Live App → INSERT_LIVE_APP_LINK_HERE
-
-📊 Overview
+# 📊 Overview
 This application provides interactive visualizations to explore how AI adoption evolves across user types and years present in `data.csv`.
 
 Key features:
@@ -29,7 +25,7 @@ Teacher Adoption Rate | 38% | 63% | +25 pp
 
 💡 The app highlights growth differences and the historical gap between students and teachers.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -38,7 +34,7 @@ Teacher Adoption Rate | 38% | 63% | +25 pp
 | NumPy | Numerical operations |
 | Matplotlib | Plotting |
 
-📈 Visualizations
+# 📈 Visualizations
 
 1. Line Chart — Growth Trajectory
 	- Shows adoption rates for `Student` and `Teacher` across the years in `data.csv`.
@@ -48,11 +44,11 @@ Teacher Adoption Rate | 38% | 63% | +25 pp
 	- Grouped bars per year comparing `Student` vs `Teacher` adoption.
 	- Clear axis labels and grid lines.
 
-🎨 Design
+# 🎨 Design
 
 The app includes custom CSS (top of `main.py`) to create a clean, high-contrast UI with bold header and metric boxes.
 
-📁 Project Structure
+# 📁 Project Structure
 
 ```
 
@@ -62,7 +58,7 @@ The app includes custom CSS (top of `main.py`) to create a clean, high-contrast 
 └── README.md          # Project documentation (this file)
 ```
 
-📦 Installation
+# 📦 Installation
 
 Prerequisites
 
@@ -85,7 +81,7 @@ streamlit run main.py
 
 Open in browser: http://localhost:8501
 
-📊 Dataset
+# 📊 Dataset
 
 The `data.csv` used by `main.py` should include these columns:
 
@@ -101,7 +97,7 @@ Year | User Type | AI Adoption Rate (%) | Primary Use Case
 2026 | Student | 82 | Advanced Data Analysis
 2026 | Teacher | 63 | Curriculum Design
 
-📚 Data Sources & References
+# 📚 Data Sources & References
 
 To align with your specific research on AI in Education, I have swapped the data center energy references for your UNESCO and OECD sources. I also formatted it to match the professional style used in your CCIT project.
 
@@ -120,26 +116,24 @@ Primary Use Case Evolution
 
 Categorical data regarding specific applications—such as Advanced Data Analysis for students and Curriculum Design for teachers—are based on the Stanford AI Index Report 2025 and World Bank education technology frameworks.
 
-References
+# References
 
-UNESCO Institute for Statistics. (2025). AI and education: Protecting the rights of learners. https://www.unesco.org/en/articles/ai-and-education-protecting-rights-learners
+Center for Democracy and Technology. (2025). Hand in Hand: Schools’ Embrace of AI Connected to Increased Risks to Students. https://cdt.org/insights/hand-in-hand-schools-embrace-of-ai-connected-to-increased-risks-to-students/
 
-OECD. (2026). OECD digital education outlook 2026: Exploring effective uses of generative AI in education. OECD Publishing. https://doi.org/10.1787/062a7394-en
+OECD. (2026). OECD Digital Education Outlook 2026: Innovations in Teaching and Learning with AI. OECD Publishing. https://doi.org/10.1787/062a7394-en
 
-Stanford Institute for Human-Centered AI. (2025). Artificial intelligence index report 2025. Stanford University. https://hai.stanford.edu/ai-index-2025
+Stanford Institute for Human-Centered AI. (2025). Artificial Intelligence Index Report 2025. Stanford University. https://hai.stanford.edu/ai-index-2025
 
-World Bank. (2024). AI revolution in education: What you need to know. https://documents.worldbank.org/curated/en/099734306182493324
+UNESCO. (2024). AI competency framework for teachers. United Nations Educational, Scientific and Cultural Organization. https://unesdoc.unesco.org/ark:/48223/pf0000391104
 
-Center for Democracy and Technology. (2025). Schools’ embrace of AI connected to increased risks: 2024-25 student and teacher survey. https://cdt.org/insights/report-schools-embrace-of-ai
-
-🚀 Deployment
+# 🚀 Deployment
 
 To deploy on Streamlit Community Cloud:
 1. Push your repository to GitHub
 2. Go to https://share.streamlit.io and connect your repo
 3. Set the main file to `main.py` and click Deploy
 
-📝 Assignment Requirements
+# 📝 Assignment Requirements
 
 This project meets the common visualization assignment checklist:
 
@@ -149,10 +143,10 @@ This project meets the common visualization assignment checklist:
 - [x] Clear and descriptive titles and axis labels
 - [x] Proper scaling and grid lines for readability
 - [x] Clean, readable code with caching for performance
+# 📄 License
+This project is open source and available under the 
+[MIT](https://github.com/Davecaliamugos/app_visualization/blob/main/LICENSE) License.
 
-## Next steps / Optional changes
-
-- Replace the `Live demo` placeholder with your deployed URL.
-- Optionally add a `LICENSE` file, create `app.py` wrapper, or add CI/deploy configuration — tell me which and I will add it.
-
-
+# Course: CS Elective 3
+# Institution: Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology
+# College: CCIT
