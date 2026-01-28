@@ -99,10 +99,6 @@ Year | User Type | AI Adoption Rate (%) | Primary Use Case
 
 # 📚 Data Sources & References
 
-To align with your specific research on AI in Education, I have swapped the data center energy references for your UNESCO and OECD sources. I also formatted it to match the professional style used in your CCIT project.
-
-Here is the updated footer content to place at the bottom of your research:
-
 Data Sources & References
 The data presented in this visualization is based on credible research sources and educational datasets:
 
@@ -114,8 +110,7 @@ Trend Modeling: The reported growth from 2024 (55% student / 38% teacher) reflec
 
 Primary Use Case Evolution
 
-Categorical data regarding specific applications—such as Advanced Data Analysis for students and Curriculum Design for teachers—are based on the Stanford AI Index Report 2025 and World Bank education technology frameworks.
-
+Categorical data regarding specific applications—such as Advanced Data Analysis for students and Curriculum Design for teachers—are based on the Stanford AI Index Report 2025.
 # References
 
 Center for Democracy and Technology. (2025). Hand in Hand: Schools’ Embrace of AI Connected to Increased Risks to Students. https://cdt.org/insights/hand-in-hand-schools-embrace-of-ai-connected-to-increased-risks-to-students/
