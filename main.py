@@ -88,7 +88,7 @@ if not df.empty:
 
     with c_left:
         with st.container(border=True):
-            st.markdown('<div class="title-box">📈 Fig 1: 3-Year Growth Trajectory</div>', unsafe_allow_html=True)
+            st.markdown('<div class="title-box">📈 Fig 1: AI Adoption Trend Over Time</div>', unsafe_allow_html=True)
             fig1, ax1 = plt.subplots(figsize=(8, 5))
             for user, color in zip(["Student", "Teacher"], ["#17d427", "#3b6978"]):
                 subset = df[df["User Type"] == user].sort_values("Year")
@@ -102,7 +102,7 @@ if not df.empty:
 
     with c_right:
         with st.container(border=True):
-            st.markdown('<div class="title-box">📊 Fig 2: Comparative Yearly View</div>', unsafe_allow_html=True)
+            st.markdown('<div class="title-box">📊 Fig 2: Student vs Teacher AI Adoption Comparison</div>', unsafe_allow_html=True)
             years = sorted(df['Year'].unique())
             x = np.arange(len(years))
             width = 0.35
