@@ -151,9 +151,9 @@ This project is open source and available under the
 # Group 1
 # Institution: Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology
 # Members: 
-# DAVE MATHEW E. CAMPO
-# JONATHAN M. AMANGCA
-# LLOYD GEORGE M. BIBANO
-# LUCY D. LIM
-# NIMFA MAE A. SOLASCO
+DAVE MATHEW E. CAMPO
+JONATHAN M. AMANGCA
+LLOYD GEORGE M. BIBANO
+LUCY D. LIM
+NIMFA MAE A. SOLASCO
  
