@@ -148,5 +148,12 @@ This project is open source and available under the
 [MIT](https://github.com/Davecaliamugos/app_visualization/blob/main/LICENSE) License.
 
 # Course: CS Elective 3
+# Group 1
 # Institution: Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology
-# College: CCIT
+# Members: 
+DAVE MATHEW E. CAMPO
+JONATHAN M. AMANGCA
+LLOYD GEORGE M. BIBANO
+LUCY D. LIM
+NIMFA MAE A. SOLASCO
+ 
